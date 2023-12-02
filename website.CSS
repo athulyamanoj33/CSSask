@@ -1,0 +1,169 @@
+.header{
+    background-color: black;
+    margin:2%;
+    padding: 0;
+    border-bottom: 3px solid green;
+    
+}
+#head1{
+    color: yellowgreen;
+    padding-left: 10%;
+    font-size: 40px;
+    font-weight: lighter;
+    margin: 0;   
+}
+#para1{
+    color: grey;
+    padding-left: 10%;
+    margin-top: 1px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(71, 70, 70);
+    text-align: center;
+    border-radius: 6px;
+    margin-left: 4px;
+}
+.home{
+    margin-left: 51%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 5px;
+    
+}
+.about{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 5px;
+
+}
+.Apage{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 5px;
+
+
+}
+.anotherpage{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 5px;
+
+}
+.contactus{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 5px;
+
+
+}
+
+a:hover{
+    background-color:greenyellow;
+}
+section{
+    margin-left: 10% ;
+} 
+.responsive{
+    margin-top: 5Px;
+    
+   
+} 
+.head2{
+    font-weight: lighter;
+    margin-top: 1%;
+    
+   
+} 
+#head3{
+    color: rgb(69, 148, 221);
+    font-weight: lighter;
+}
+
+article{
+    margin-left: 10%;
+}
+footer{
+background-color: rgb(41, 38, 38);
+color: grey;
+text-align: center;
+border-top: 3px solid green;
+padding-bottom: 5px;
+font-size: small;
+}
+ aside
+{
+    width: 30%;
+    float: right;
+    font-size:14px; 
+    
+}  
+.aside1{
+    border: 1px solid black;
+    margin-top: 5%;
+    margin-right: 33%;
+    padding-left: 4%;
+    border-radius: 10px;
+    
+
+}
+.aside2{
+    border: 1px solid black;
+    margin-top: 5%;
+    margin-right: 33%;
+    padding-left: 4%;
+    border-radius: 10px;
+   
+
+}
+.aside3{
+    border: 1px solid black;
+    margin-top: 5%;
+    margin-right: 33%;
+    padding-left: 1%;
+    border-radius: 10px;
+   
+}
+#head4{
+    font-weight: lighter;
+}
+#head5{
+    font-weight: lighter;
+    color: rgb(69, 148, 221);
+}
+.asidep{
+    font-weight: lighter;
+    color: rgba(200, 200, 17, 0.7);
+}
+.ul2{
+    color: rgb(69, 148, 221);
+}
+.span1{
+    color:rgba(200, 200, 17, 0.7);
+
+}
+.span2{
+    color:black;
+}
+input{
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.aside3{
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+footer{
+    margin: 3%;
+}
+.inputform{
+    margin-left: 2%;
+
+}
+
+
+
+
+    
+
